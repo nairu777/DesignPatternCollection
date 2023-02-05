@@ -1,6 +1,4 @@
 ﻿using Microsoft.Extensions.Logging;
-using DePaCo.Data;
-
 namespace DePaCo;
 
 public static class MauiProgram
@@ -21,8 +19,6 @@ public static class MauiProgram
 		builder.Services.AddBlazorWebViewDeveloperTools();
 		builder.Logging.AddDebug();
 #endif
-
-		builder.Services.AddSingleton<WeatherForecastService>();
 
 		return builder.Build();
 	}

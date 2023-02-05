@@ -1,0 +1,43 @@
+Design Patterns
+
+Creational:
+- Factory
+- Builder
+- Dependancy Injection
+- Lazy
+- Singleton
+
+Structural:
+- Adapter
+- Composite
+- Decorator
+- Delegation
+- Facade
+- Proxy
+
+Behavioral:
+- Blackboard
+- Command
+- Interpreter
+- Mediator
+- Observer (PubSub)
+- State
+- Strategy
+- Visitor
+
+Architectural:
+- Action-Domain-Responder
+	- MVC
+	- MVVM
+- Layers
+- P2P
+- Pipe and Filter
+- Mssage Broker
+
+Concurrency:
+- Event-based async
+- Lock
+- Message design (MDP)
+- Reactor
+- Scheduler
+- Thread Pool
