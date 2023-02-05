@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31611.283
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DePaCo", "DePaCo\DePaCo.csproj", "{201E897C-73EA-4054-9F8A-BFAED3693B48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DePaCo.Client", "DePaCo\DePaCo.Client.csproj", "{201E897C-73EA-4054-9F8A-BFAED3693B48}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
